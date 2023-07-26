@@ -1,0 +1,9 @@
+F:\Training Stuff\Dot netTraining\Projects\ConAppRetrieveStudentData\ConAppRetrieveStudentData\bin\Debug\ConAppRetrieveStudentData.exe.config
+F:\Training Stuff\Dot netTraining\Projects\ConAppRetrieveStudentData\ConAppRetrieveStudentData\bin\Debug\ConAppRetrieveStudentData.exe
+F:\Training Stuff\Dot netTraining\Projects\ConAppRetrieveStudentData\ConAppRetrieveStudentData\bin\Debug\ConAppRetrieveStudentData.pdb
+F:\Training Stuff\Dot netTraining\Projects\ConAppRetrieveStudentData\ConAppRetrieveStudentData\obj\Debug\ConAppRetrieveStudentData.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Projects\ConAppRetrieveStudentData\ConAppRetrieveStudentData\obj\Debug\ConAppRetrieveStudentData.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Projects\ConAppRetrieveStudentData\ConAppRetrieveStudentData\obj\Debug\ConAppRetrieveStudentData.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Projects\ConAppRetrieveStudentData\ConAppRetrieveStudentData\obj\Debug\ConAppRetrieveStudentData.exe
+F:\Training Stuff\Dot netTraining\Projects\ConAppRetrieveStudentData\ConAppRetrieveStudentData\obj\Debug\ConAppRetrieveStudentData.pdb
+F:\Training Stuff\Dot netTraining\Projects\ConAppRetrieveStudentData\ConAppRetrieveStudentData\bin\Debug\students.txt
